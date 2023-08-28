@@ -9,8 +9,9 @@ import numpy as np
 from PIL import Image
 import base64
 
+
 # Initialize OpenAI API
-openai.api_key = "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"
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 # Initialize an empty list to store details
 details_list = []
