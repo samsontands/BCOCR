@@ -5,3 +5,5 @@ pandas
 numpy
 Pillow
 streamlit
+tesseract-ocr
+tesseract-ocr-por
