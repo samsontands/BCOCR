@@ -1,0 +1,9 @@
+openai
+cv2
+os
+re
+pytesseract
+pandas
+numpy
+PIL
+base64
