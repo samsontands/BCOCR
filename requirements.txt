@@ -1,5 +1,5 @@
 openai
-cv2
+opencv-python
 os
 re
 pytesseract
